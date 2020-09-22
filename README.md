@@ -13,7 +13,7 @@ I am Reto, a passionate technology enthusiast. I am a fan of continuous improvem
 - Spring Boot, Spring Framework, Spring Cloud, quarkus.io, gin-gonic, nodejs, Angular
 - Java, Golang, Bash, TypeScript, JavaScript
 - Kafka, PostgreSQL, Google Pub/Sub, Elasticsearch, MongoDB, Google Firestore, Redis, Prometheus, Grafana, Linux (including RHEL), Keycloak
-- Jenkings, Bamboo, Gitlab, Github, Github Actions, Github Packages, Helm, Kustomize, Terraform, Ansible
+- Jenkins, Bamboo, Gitlab, Github, Github Actions, Github Packages, Helm, Kustomize, Terraform, Ansible
 
 ## 💬 Ask me about
 - anything you'd like to know
