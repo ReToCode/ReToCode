@@ -19,7 +19,7 @@ I am Reto, a passionate technology enthusiast. I am a fan of continuous improvem
 - anything you'd like to know
 
 ## 📫 How to reach me:
-- Click on contact on (my website)[https://codemint.ch]
+- Click on contact on [my website](https://codemint.ch)
 
 ## ⚡ Fun fact:
 - I'm an early 🐤
